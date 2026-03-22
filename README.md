@@ -9,8 +9,8 @@ The project focuses on implementing logic and interactivity along with a clean a
 - Simple and interactive interface  
 
 # Built with
-- HTML  
-- CSS  
+- HTML5  
+- CSS3  
 - JavaScript  
 
 # Purpose
